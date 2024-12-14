@@ -1,8 +1,8 @@
 - 👋 Hi, I’m JackyLee
-- 👀 I’m interested in Rust & all in Rust
-- 🌱 I’m currently learning AI
-- 💞️ I’m here to record my daily learning of state of art AI 
-- 📫 How to reach me ...
+- 👀 I’m passionate about Rust & all in Rust
+- 🌱 Currently, I'm learning AI.  
+- 💞️ I'm documenting my daily progress in state of art AI 
+- 📫 Feel free to reach out!
 
 <!---
 Int20220222/Int20220222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
